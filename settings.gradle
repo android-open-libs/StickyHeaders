@@ -1,0 +1,3 @@
+rootProject.name = "StickyHeaders"
+include ':app'
+include ':library'
